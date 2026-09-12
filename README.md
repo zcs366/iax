@@ -1,3 +1,4 @@
+> [!WARNING] 本仓已归档(2026-09-12)：六体真实现回归主仓 github.com/zcs366/openllm，src/openllm/ 下各归其位。本仓不再维护。
 # IAX · 心跳体
 
 openLLM 六体之一 —— **心跳/调度（Heartbeat）**。
